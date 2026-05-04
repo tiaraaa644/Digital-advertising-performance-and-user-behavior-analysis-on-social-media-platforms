@@ -22,11 +22,22 @@ This project analyzes digital advertising performance and user behavior on socia
 
 ---
 
+Siap, ini versi **singkat + bahasa Inggris + formal** 👇
+
+---
+
 ## 📊 Dataset
-The dataset includes:
-- Ad events (impressions, likes, shares, purchases)
-- User demographics (age, gender, interests)
-- Campaign and budget data
+
+The dataset used in this project is Social Media Advertisement Performance from Kaggle. It simulates digital advertising performance and user behavior on social media platforms.
+
+The dataset consists of four main tables:
+
+* **Users**: user demographic data (age, gender, interests, etc.)
+* **Campaigns**: campaign information (budget, duration)
+* **Ads**: advertisement data and targeting parameters
+* **Ad Events**: user interactions (impressions, likes, shares, purchases)
+
+This dataset is used to analyze campaign performance, targeting effectiveness, and user behavior throughout the conversion funnel.
 
 ---
 
