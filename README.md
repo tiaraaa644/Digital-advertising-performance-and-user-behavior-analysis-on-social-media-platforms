@@ -18,7 +18,7 @@ This project analyzes digital advertising performance and user behavior on socia
 ## 🛠️ Tools & Technologies
 - SQL
 - Data Analysis
-- (Optional: Python / Tableau / Excel)
+- Visualization : Power BI
 
 ---
 
