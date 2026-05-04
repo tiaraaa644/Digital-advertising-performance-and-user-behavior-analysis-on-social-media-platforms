@@ -55,16 +55,26 @@ This dataset is used to analyze campaign performance, targeting effectiveness, a
 
 ---
 
+## Conclusion
+Stable ad performance → conversion rate ranges from 0.79% – 1.07%
+Targeting not optimal → 84.09% interactions are NOT MATCH
+Clear main audience → dominated by ages 18–34, mostly male users
+Campaign performance varies → trade-off between volume and efficiency
+Most efficient campaign → Campaign 42 Summer
+
+---
 ## 💡 Recommendations
-- Optimize targeting strategy  
-- Focus on high-performing campaigns  
-- Improve landing page experience  
-- Apply A/B testing for better results  
+
+- Improve targeting accuracy → increase MATCH audience
+- Focus on key audience segments → prioritize ages 18–34 and most active users
+- Optimize campaign strategy → use high-efficiency campaigns as benchmarks
+- Evaluate high-volume but low-efficiency campaigns → review campaigns with high purchases but low efficiency
+- Optimize ad distribution strategy → focus on targeting quality and efficiency, not just reach
 
 ---
 
 ## 👩‍💻 Author
 **Mutiara Annisa**  
-Information Technology – Darma Persada University  
+Aspiring Data Analyst | SQL, Python, Data Analysis, Data Visualization 
 
 ---
