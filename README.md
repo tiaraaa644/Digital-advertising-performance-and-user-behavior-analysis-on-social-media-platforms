@@ -22,10 +22,6 @@ This project analyzes digital advertising performance and user behavior on socia
 
 ---
 
-Siap, ini versi **singkat + bahasa Inggris + formal** 👇
-
----
-
 ## 📊 Dataset
 
 The dataset used in this project is Social Media Advertisement Performance from Kaggle. It simulates digital advertising performance and user behavior on social media platforms.
